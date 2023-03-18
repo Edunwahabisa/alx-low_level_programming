@@ -1,11 +1,8 @@
 #include <stdio.h>
-
 /**
- *  * main - Entry point for the program
- *   *
- *    *
- *     * Return: 0 on success, non-zero on failure
- *      */
+ * main - Entry point for the program
+ * Return: 0 on success, non-zero on failure
+ */
 int main(void)
 {
 		printf("Size of a char: %d byte(s)\n", sizeof(char));
