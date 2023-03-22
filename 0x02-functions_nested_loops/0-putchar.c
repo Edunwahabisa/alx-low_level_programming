@@ -1,14 +1,13 @@
 #include "main.h"
+
 /**
  * main - print _putchar
- *
- * discription: print _putchar
- *
- * return: 0
+ * Discription: print _putchar
+ * Return: 0
  */
 int manin(void)
 {
-	char text[9] = "_putchar
+	char text[9] = "_putchar";
 		int i = 0;
 
 	for (i = 0; i < 8; i++)
